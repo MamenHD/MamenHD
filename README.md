@@ -20,6 +20,7 @@
 ### Bisa liat stats MamenHD
 ![MamenHD GitHub stats](https://github-readme-stats.vercel.app/api?username=MamenHD&show_icons=true&theme=tokyonight)
 
+#### Jangan Lupa Follow MamenHD
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MamenHD/MamenHD/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MamenHD/MamenHD/output/pacman-contribution-graph.svg">
